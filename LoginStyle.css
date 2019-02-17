@@ -1,0 +1,73 @@
+body
+{
+background:url(back.jpg);
+}
+.login-heading
+{
+	color:white;
+	text-align:center;
+	padding:40px;
+}
+.login-subheading
+{
+	color:white;
+	text-align:center;
+	margin-top:30px;
+	
+}
+
+.textbox
+{
+	color:white;
+	text-align:center;
+	}
+input[type=username]
+{
+    
+    border: 2px solid #FFFFFF;
+    border-radius: 3px;
+    background:transparent;
+    background-image: url('email.png');
+    background-position: 2px 3px;
+    background-repeat: no-repeat;
+    padding-left: 30px;   
+    color: #FFFFFF;
+}
+input[type=password]{
+    border: 2px solid #FFFFFF;
+    border-radius: 3px;
+    background:transparent;
+    background-image: url('lock.png');
+    background-position: 2px 3px;
+    background-repeat: no-repeat;
+    padding-left: 30px;   
+    color: #FFFFFF;
+
+}
+.checkbox
+{
+color:white;
+text-align:center;
+padding:5px;
+
+}
+
+.btn
+{
+	
+	background-color:black;
+	color:white;
+	text-align:center;
+	margin-right:36px;
+	border:none;
+	margin-left:500px;
+}
+.buttontext
+{
+	color:white;
+}
+	footer{
+		color:white;
+    text-align: center;
+    margin-top:100px; 
+}
